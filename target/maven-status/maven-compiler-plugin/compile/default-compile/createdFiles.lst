@@ -1,0 +1,3 @@
+com\example\dockerdemo\dockerdemo\DockerController.class
+com\example\dockerdemo\dockerdemo\DockerdemoApplication.class
+com\example\dockerdemo\dockerdemo\RestController.class
